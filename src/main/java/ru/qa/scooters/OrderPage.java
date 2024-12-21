@@ -12,7 +12,7 @@ public class OrderPage {
     public static final By METRO_STATION = By.xpath("//li[@data-index='3']");
     public static final By NEXT_BUTTON = By.cssSelector("button.Button_Button__ra12g.Button_Middle__1CSJM");
     public static final By WHEN_DELIVERY_PICKER = By.cssSelector("button.Button_Button__ra12g Button_Middle__1CSJM.Button_Inverted__3IF-i");
-    public static final By WHEN_DELIVERY_DAY = By.className("react-datepicker__day react-datepicker__day--026");
+    public static final By WHEN_DELIVERY_DAY = By.className("react-datepicker__day--026");
     public static final By RENT_PERIOD_PICKER = By.className("Dropdown-arrow");
     public static final By RENT_PERIOD_DAYS = By.xpath("//div[@class='Dropdown-menu']/div[text()='четверо суток']");
     public static final By COLOR_CHECKBOX = By.id("black");
